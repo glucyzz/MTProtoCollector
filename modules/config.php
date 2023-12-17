@@ -23,9 +23,9 @@ $sources = [
     "proxy_kafee",
     "alephproxy",
     "YekoyekVpn",
-    "ProxyForOpeta"
+    "ProxyForOpeta",
     "tgMTProto",
-    "aries_init"
+    "aries_init",
     "hgwzcd"
 ];
 
