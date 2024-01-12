@@ -100,18 +100,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "samplingart.com.govacco_unting.ir.otanol.com.bazarehadaf.com.smsjob.ir.pf_eco.ir.kalaamir.com.postmix.ir.gapgroup-co.com.mirichimeh.ir.fza-uast.com.ask-qazvin.ir.omega-shop.ir.logoselt.com.amozeshstore.ir.damzee.com.fasaei.ir.imensadra.ir.kabirsanat.sbs",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\uddeb\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=samplingart.com.govacco_unting.ir.otanol.com.bazarehadaf.com.smsjob.ir.pf_eco.ir.kalaamir.com.postmix.ir.gapgroup-co.com.mirichimeh.ir.fza-uast.com.ask-qazvin.ir.omega-shop.ir.logoselt.com.amozeshstore.ir.damzee.com.fasaei.ir.imensadra.ir.kabirsanat.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\uddeb\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "95.216.59.188",
             "port": "8443",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
