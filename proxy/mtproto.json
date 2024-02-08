@@ -418,29 +418,5 @@
             "name": "@tgMTProto|\ud83c\uddee\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=128.140.111.198&port=4024&secret=FgMBAgABAAH8AwOG4kw63Q==&@tgMTProto|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "20.187.124.163",
-            "port": "56666",
-            "secret": "ee1cfd500aef739044a034caf8e6666c387777772e74656c737472612e636f6d2e6175",
-            "name": "@aries_init|\ud83c\udded\ud83c\uddf0"
-        },
-        "link": "https:\/\/t.me\/proxy?server=20.187.124.163&port=56666&secret=ee1cfd500aef739044a034caf8e6666c387777772e74656c737472612e636f6d2e6175&@aries_init|\ud83c\udded\ud83c\uddf0"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "20.213.234.75",
-            "port": "56666",
-            "secret": "ee1cfd500aef739044a034caf8e6666c387777772e74656c737472612e636f6d2e6175",
-            "name": "@aries_init|\ud83c\udde6\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=20.213.234.75&port=56666&secret=ee1cfd500aef739044a034caf8e6666c387777772e74656c737472612e636f6d2e6175&@aries_init|\ud83c\udde6\ud83c\uddfa"
     }
 ]
