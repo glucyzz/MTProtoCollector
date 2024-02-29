@@ -28,30 +28,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-pabje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blOs-0iks.inFo.",
-            "port": "7443",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-pabje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blOs-0iks.inFo.&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-panje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blUs-4iks.inFo.",
-            "port": "7443",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-panje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blUs-4iks.inFo.&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "cloudflare.com.nokia.com.web.rubika.ir.bonzelina-roka.info",
             "port": "4550",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
@@ -163,9 +139,9 @@
             "server": "www.howtonestforless.sbs.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.howtonestforless.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=www.howtonestforless.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -349,35 +325,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "iran.kala-tehran.ir",
-            "port": "1223",
-            "secret": "ee00332089198001000020009070080000646c2e676f6f676c652e636f6d",
-            "name": "@ProxyForOpeta|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=iran.kala-tehran.ir&port=1223&secret=ee00332089198001000020009070080000646c2e676f6f676c652e636f6d&@ProxyForOpeta|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "159.69.203.200",
             "port": "4443",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
             "name": "@tgMTProto|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=159.69.203.200&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==&@tgMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-pabje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blUs-5iks.inFo.",
-            "port": "7443",
-            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@tgMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-pabje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blUs-5iks.inFo.&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==&@tgMTProto|\ud83c\udde9\ud83c\uddea"
     }
 ]
