@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "37.27.8.188",
+            "port": "443",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "web.robika.ir.rubiiikkkkaaaa.info",
             "port": "843",
             "secret": "7sQiqN2IziAAQtnj7g6f0J13ZWIucnViaWthLmly",
@@ -67,9 +79,21 @@
             "server": "www.redmoonfireworks.cfd.",
             "port": "443",
             "secret": "7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=",
-            "name": "@TelMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@TelMTProto|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.redmoonfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@TelMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=www.redmoonfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@TelMTProto|\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.bloggerlocal.cfd.",
+            "port": "443",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==",
+            "name": "@TelMTProto|\ud83c\uddec\ud83c\udde7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.bloggerlocal.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==&@TelMTProto|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
