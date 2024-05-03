@@ -20,7 +20,7 @@ function check_host($host)
     }
 
     $url = "https://check-host.net/check-ping";
-    $nodes = ["ir3.node.check-host.net", "ir4.node.check-host.net", "ir1.node.check-host.net"];
+    $nodes = ["telegram.org", "www.google.com"];
     $params = http_build_query([
         'host' => $host,
         'node' => $nodes,
@@ -71,7 +71,7 @@ function check_ping($request_id)
     $decoded_response = json_decode($response, true);
 
     $pings = [];
-    $nodes = ["ir1.node.check-host.net", "ir3.node.check-host.net", "ir4.node.check-host.net"];
+    $nodes = ["telegram.org", "www.google.com"];
 
     foreach ($nodes as $node) {
         if (empty($decoded_response[$node])) {
