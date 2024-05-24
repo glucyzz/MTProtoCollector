@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "atlasiha.ir.modiriatefarda.ir.ma-haratamoozi.ir.telecomsoft.ir.razigaran.com.ssponline.ir.parsanstore.ir.nitacarpet.ir.tak-miveh.ir.holdingarash.com.baghroshop.ir.justdigital.ir.ahvan.ir.barbodparvaz.com.pushana.ir.yavar24.com.asiatechcallcenter.website",
-            "port": "443",
-            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
-            "name": "@MTP_roto|\ud83c\uddee\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=atlasiha.ir.modiriatefarda.ir.ma-haratamoozi.ir.telecomsoft.ir.razigaran.com.ssponline.ir.parsanstore.ir.nitacarpet.ir.tak-miveh.ir.holdingarash.com.baghroshop.ir.justdigital.ir.ahvan.ir.barbodparvaz.com.pushana.ir.yavar24.com.asiatechcallcenter.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@MTP_roto|\ud83c\uddee\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
