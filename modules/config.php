@@ -19,11 +19,19 @@ $sources = [
     "V2rayng_Fast",
     "daorzadannet",
     "v2rayNGNeT",
-    "PAINB0Y",
     "proxy_kafee",
     "alephproxy",
     "YekoyekVpn",
-    "ProxyForOpeta"
+    "tgMTProto",
+    "hgwzcd",
+    "tgproxy8",
+    "mt_proxyis",
+    "proxymtprotoj",
+    "bestt_mtprox",
+    "Cheetah_MTP",
+    "juzibaipiao",
+    "proxy_pub",
+    "v8_555"
 ];
 
 ?>
