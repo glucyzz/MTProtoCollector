@@ -28,6 +28,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "185.244.183.24",
+            "port": "443",
+            "secret": "eeRighJJvXrFGRMCIMJdCQ",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=185.244.183.24&port=443&secret=eeRighJJvXrFGRMCIMJdCQ&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "92.246.87.180",
             "port": "65",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ==",
@@ -79,9 +91,9 @@
             "server": "hfdtiso.co.uk",
             "port": "443",
             "secret": "FgMBAgABAAH8AwOG4kw63Q",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=hfdtiso.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q&@TelMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=hfdtiso.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -358,5 +370,29 @@
             "name": "@Cheetah_MTP|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=dynamic-------proxy------ir.aa42hgujoiah-xy1xutr005-2tk.info.&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Cheetah_MTP|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "parya.2p2p.ir",
+            "port": "443",
+            "secret": "ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972",
+            "name": "@proxy_pub|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972&@proxy_pub|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "parya.2p2p.ir",
+            "port": "443",
+            "secret": "7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==",
+            "name": "@proxy_pub|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==&@proxy_pub|\ud83d\udea9"
     }
 ]
