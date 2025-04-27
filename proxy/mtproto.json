@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.13.145.80",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "5.255.100.223",
             "port": "443",
             "secret": "15115115115115115115115115115115",
@@ -391,9 +379,9 @@
             "server": "parya.2p2p.ir",
             "port": "443",
             "secret": "ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972",
-            "name": "@proxy_pub|\ud83d\udea9"
+            "name": "@proxy_pub|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972&@proxy_pub|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972&@proxy_pub|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -403,8 +391,8 @@
             "server": "parya.2p2p.ir",
             "port": "443",
             "secret": "7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==",
-            "name": "@proxy_pub|\ud83d\udea9"
+            "name": "@proxy_pub|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==&@proxy_pub|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==&@proxy_pub|\ud83c\udde9\ud83c\uddea"
     }
 ]
