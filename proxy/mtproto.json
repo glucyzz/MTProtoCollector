@@ -184,18 +184,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "por.sorat.va.qavi.mese.noor.shahbaz.sbs",
-            "port": "443",
-            "secret": "ee398b03519e77ace1d35d689a126b821f73332e616d617a6f6e6177732e636f6d",
-            "name": "@alephproxy|\ud83c\uddf2\ud83c\udde9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=por.sorat.va.qavi.mese.noor.shahbaz.sbs&port=443&secret=ee398b03519e77ace1d35d689a126b821f73332e616d617a6f6e6177732e636f6d&@alephproxy|\ud83c\uddf2\ud83c\udde9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "188.245.169.153",
             "port": "3784",
             "secret": "FgMBAgABAAH8AwOG4kw63Q",
@@ -307,9 +295,9 @@
             "server": "parya.2p2p.ir",
             "port": "443",
             "secret": "ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972",
-            "name": "@proxy_pub|\ud83c\udde9\ud83c\uddea"
+            "name": "@proxy_pub|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972&@proxy_pub|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972&@proxy_pub|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -319,8 +307,8 @@
             "server": "parya.2p2p.ir",
             "port": "443",
             "secret": "7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==",
-            "name": "@proxy_pub|\ud83c\udde9\ud83c\uddea"
+            "name": "@proxy_pub|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==&@proxy_pub|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=parya.2p2p.ir&port=443&secret=7nKIHp4efR_5ZHkTYW03rq5zbmFwcC5pcg==&@proxy_pub|\ud83d\udea9"
     }
 ]
