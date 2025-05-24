@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "49.13.145.80",
+            "port": "443",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "77.232.43.253",
             "port": "23",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -280,18 +292,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "por.sorat.va.qavi.mese.noor.shahbaz.sbs",
-            "port": "443",
-            "secret": "ee398b03519e77ace1d35d689a126b821f73332e616d617a6f6e6177732e636f6d",
-            "name": "@alephproxy|\ud83c\uddf2\ud83c\udde9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=por.sorat.va.qavi.mese.noor.shahbaz.sbs&port=443&secret=ee398b03519e77ace1d35d689a126b821f73332e616d617a6f6e6177732e636f6d&@alephproxy|\ud83c\uddf2\ud83c\udde9"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "ssssssss.mmmmm.5745798.yekdose123.space",
             "port": "8080",
             "secret": "ee1b3829daae01fd07c0e23c917c664004697669662e6972",
@@ -454,17 +454,5 @@
             "name": "@v8_555|\ud83c\udde8\ud83c\uddf3"
         },
         "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=14478&secret=7jyR4Yn3p0EkmBOvD7dlHSdhenVyZS5taWNyb3NvZnQuY29t&@v8_555|\ud83c\udde8\ud83c\uddf3"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "223.86.120.87",
-            "port": "25247",
-            "secret": "7mwvExUbSiCMHAVqumc1Q4NhenVyZS5taWNyb3NvZnQuY29t",
-            "name": "@v8_555|\ud83c\udde8\ud83c\uddf3"
-        },
-        "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=25247&secret=7mwvExUbSiCMHAVqumc1Q4NhenVyZS5taWNyb3NvZnQuY29t&@v8_555|\ud83c\udde8\ud83c\uddf3"
     }
 ]
