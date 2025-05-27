@@ -4,24 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "91.245.220.12",
-            "port": "8443",
-            "secret": "1320PuNyHw_LQKT_Y7XNJw==",
-            "name": "@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
-        },
-        "link": "https:\/\/t.me\/proxy?server=91.245.220.12&port=8443&secret=1320PuNyHw_LQKT_Y7XNJw==&@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "91.84.103.188",
             "port": "443",
             "secret": "1320PuNyHw_LQKT_Y7XNJw==",
             "name": "@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
         },
         "link": "https:\/\/t.me\/proxy?server=91.84.103.188&port=443&secret=1320PuNyHw_LQKT_Y7XNJw==&@Lion_MTProto|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "ir.brobalair.ink",
+            "port": "8888",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q",
+            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=ir.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -46,6 +46,18 @@
             "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
         },
         "link": "https:\/\/t.me\/proxy?server=65.21.213.225&port=8443&secret=1320PuNyHw_LQKT_Y7XNJw==&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.",
+            "port": "443",
+            "secret": "7HQighJPBNMYVRNB6tdkVw==",
+            "name": "@Myporoxy|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==&@Myporoxy|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -190,6 +202,18 @@
             "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=ir.rezerviha.ir.&port=551&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "91.245.220.12",
+            "port": "8443",
+            "secret": "1320PuNyHw_LQKT_Y7XNJw==",
+            "name": "@proxyy|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.245.220.12&port=8443&secret=1320PuNyHw_LQKT_Y7XNJw==&@proxyy|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -376,18 +400,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "8.211.162.191",
-            "port": "443",
-            "secret": "ee8f3e5bdd4deaee3cc9c6f9460d834b4d617a7572652e6d6963726f736f66742e636f6d",
-            "name": "@proxy_pub|\ud83c\uddef\ud83c\uddf5"
-        },
-        "link": "https:\/\/t.me\/proxy?server=8.211.162.191&port=443&secret=ee8f3e5bdd4deaee3cc9c6f9460d834b4d617a7572652e6d6963726f736f66742e636f6d&@proxy_pub|\ud83c\uddef\ud83c\uddf5"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "8.211.171.127",
             "port": "443",
             "secret": "eee58ba4124e7da7ccb28c497ecb102f92617a7572652e6d6963726f736f66742e636f6d",
@@ -406,5 +418,17 @@
             "name": "@v8_555|\ud83c\udde8\ud83c\uddf3"
         },
         "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=14478&secret=7jyR4Yn3p0EkmBOvD7dlHSdhenVyZS5taWNyb3NvZnQuY29t&@v8_555|\ud83c\udde8\ud83c\uddf3"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "223.86.120.87",
+            "port": "25247",
+            "secret": "7mwvExUbSiCMHAVqumc1Q4NhenVyZS5taWNyb3NvZnQuY29t",
+            "name": "@v8_555|\ud83c\udde8\ud83c\uddf3"
+        },
+        "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=25247&secret=7mwvExUbSiCMHAVqumc1Q4NhenVyZS5taWNyb3NvZnQuY29t&@v8_555|\ud83c\udde8\ud83c\uddf3"
     }
 ]
