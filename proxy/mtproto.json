@@ -52,12 +52,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "223.86.120.87",
-            "port": "21805",
-            "secret": "7hdJEARzKjVrbemAx2HbY5JhenVyZS5taWNyb3NvZnQuY29t",
-            "name": "@proxy_pub|\ud83c\udde8\ud83c\uddf3"
+            "server": "DNS.neon-machine-learning.ir.",
+            "port": "443",
+            "secret": "7hAQEP8PSAZT____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+            "name": "@Cheetah_MTP|\ud83c\uddf1\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=21805&secret=7hdJEARzKjVrbemAx2HbY5JhenVyZS5taWNyb3NvZnQuY29t&@proxy_pub|\ud83c\udde8\ud83c\uddf3"
+        "link": "https:\/\/t.me\/proxy?server=DNS.neon-machine-learning.ir.&port=443&secret=7hAQEP8PSAZT____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@Cheetah_MTP|\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "scheme": "https",
@@ -65,10 +65,22 @@
         "path": "\/proxy",
         "query": {
             "server": "223.86.120.87",
-            "port": "13181",
+            "port": "14478",
             "secret": "7jyR4Yn3p0EkmBOvD7dlHSdhenVyZS5taWNyb3NvZnQuY29t",
-            "name": "@proxy_pub|\ud83c\udde8\ud83c\uddf3"
+            "name": "@v8_555|\ud83c\udde8\ud83c\uddf3"
         },
-        "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=13181&secret=7jyR4Yn3p0EkmBOvD7dlHSdhenVyZS5taWNyb3NvZnQuY29t&@proxy_pub|\ud83c\udde8\ud83c\uddf3"
+        "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=14478&secret=7jyR4Yn3p0EkmBOvD7dlHSdhenVyZS5taWNyb3NvZnQuY29t&@v8_555|\ud83c\udde8\ud83c\uddf3"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "223.86.120.87",
+            "port": "25247",
+            "secret": "7mwvExUbSiCMHAVqumc1Q4NhenVyZS5taWNyb3NvZnQuY29t",
+            "name": "@v8_555|\ud83c\udde8\ud83c\uddf3"
+        },
+        "link": "https:\/\/t.me\/proxy?server=223.86.120.87&port=25247&secret=7mwvExUbSiCMHAVqumc1Q4NhenVyZS5taWNyb3NvZnQuY29t&@v8_555|\ud83c\udde8\ud83c\uddf3"
     }
 ]
