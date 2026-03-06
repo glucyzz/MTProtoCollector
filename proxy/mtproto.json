@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "r1.newr1.co.uk",
-            "port": "85",
-            "secret": "FgMBAgABAAH8AxOG4kw63Q==",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "server": "alo.acharbashi.info",
+            "port": "4515",
+            "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxyMTProto|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d&@ProxyMTProto|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -112,12 +112,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "85.133.194.99",
-            "port": "6443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@V2rayng_Fast|\ud83c\udde6\ud83c\uddfa"
+            "server": "r1.newr1.co.uk",
+            "port": "85",
+            "secret": "FgMBAgABAAH8AxOG4kw63Q==",
+            "name": "@tgMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=85.133.194.99&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@V2rayng_Fast|\ud83c\udde6\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==&@tgMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -160,25 +160,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "gsdl6.org",
-            "port": "9117",
-            "secret": "ddc63b005885161df76157835208667aa4",
-            "name": "@juzibaipiao|\ud83c\udde8\ud83c\uddf3"
+            "server": "hgwzcd.com",
+            "port": "54947",
+            "secret": "dd3d2b86826f267b5c28f2df4b6c7f39d6",
+            "name": "@proxy_pub|\ud83c\udde8\ud83c\uddf3"
         },
-        "link": "https:\/\/t.me\/proxy?server=gsdl6.org&port=9117&secret=ddc63b005885161df76157835208667aa4&@juzibaipiao|\ud83c\udde8\ud83c\uddf3"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "77.239.112.59",
-            "port": "46644",
-            "secret": "dd2a50a1c78b685c14e0044f4f192a4229",
-            "channel": "@baicai_dev",
-            "name": "@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=77.239.112.59&port=46644&secret=dd2a50a1c78b685c14e0044f4f192a4229&@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=hgwzcd.com&port=54947&secret=dd3d2b86826f267b5c28f2df4b6c7f39d6&@proxy_pub|\ud83c\udde8\ud83c\uddf3"
     },
     {
         "scheme": "https",
