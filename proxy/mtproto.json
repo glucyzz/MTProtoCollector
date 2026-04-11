@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.117.61.219",
+            "server": "tggo.store",
             "port": "443",
-            "secret": "ee3ce87453813480e671469fe99091473c636c6f7564666c6172652e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+            "secret": "7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl",
+            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=89.117.61.219&port=443&secret=ee3ce87453813480e671469fe99091473c636c6f7564666c6172652e636f6d&@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -136,12 +136,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.109.16.146",
+            "server": "142.54.189.110",
             "port": "443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
+            "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
+            "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=65.109.16.146&port=443&secret=dd104462821249bd7ac519130220c25d09&@proxy_kafee|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=142.54.189.110&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -196,13 +196,25 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "burner.paid.pantshoes.ramiform.tippler.pinoyfilms.net",
-            "port": "8400",
-            "secret": "3e39b3881bc146caa294c4a6ea64c601",
-            "channel": "@baicai_dev",
-            "name": "@proxy_pub|\ud83c\uddeb\ud83c\uddee"
+            "server": "160.16.84.87",
+            "port": "22335",
+            "secret": "dd48f19a3a20ab6a77c98abf837a9bfb1e",
+            "name": "@juzibaipiao|\ud83c\uddef\ud83c\uddf5"
         },
-        "link": "https:\/\/t.me\/proxy?server=burner.paid.pantshoes.ramiform.tippler.pinoyfilms.net&port=8400&secret=3e39b3881bc146caa294c4a6ea64c601&@proxy_pub|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=160.16.84.87&port=22335&secret=dd48f19a3a20ab6a77c98abf837a9bfb1e&@juzibaipiao|\ud83c\uddef\ud83c\uddf5"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "prx.fastexte.pro",
+            "port": "8443",
+            "secret": "ee650fb0356e691161e5af0f3ca862290a70726f782e66617374657874652e70726f",
+            "channel": "@baicai_dev",
+            "name": "@proxy_pub|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=prx.fastexte.pro&port=8443&secret=ee650fb0356e691161e5af0f3ca862290a70726f782e66617374657874652e70726f&@proxy_pub|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
