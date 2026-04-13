@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tggo.store",
+            "server": "194.163.166.59",
             "port": "443",
-            "secret": "7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "ee8441047534900cf5d61df8b4e07b7c78636c6f7564666c6172652e636f6d",
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=194.163.166.59&port=443&secret=ee8441047534900cf5d61df8b4e07b7c78636c6f7564666c6172652e636f6d&@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -88,12 +88,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "77.72.80.136",
-            "port": "9443",
-            "secret": "79e70102001e7807f0104386124c0479",
-            "name": "@proxyhubs|\ud83c\uddee\ud83c\uddf7"
+            "server": "204.168.250.138",
+            "port": "443",
+            "secret": "b3f0c7f6af7dc2dc2e9c80d0d80e8162",
+            "name": "@proxyhubs|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=77.72.80.136&port=9443&secret=79e70102001e7807f0104386124c0479&@proxyhubs|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=204.168.250.138&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@proxyhubs|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -196,13 +196,25 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tg.elysium.su",
-            "port": "8443",
-            "secret": "eee2933d1dcaba391455908ca4fd1f94dd74672e656c797369756d2e7375",
-            "channel": "@baicai_dev",
-            "name": "@proxy_pub|\ud83c\uddf3\ud83c\uddf1"
+            "server": "hk1ddns.dc6.icu",
+            "port": "41528",
+            "secret": "feff39bcddb62859ade093fcad935858",
+            "name": "@juzibaipiao|\ud83c\udded\ud83c\uddf0"
         },
-        "link": "https:\/\/t.me\/proxy?server=tg.elysium.su&port=8443&secret=eee2933d1dcaba391455908ca4fd1f94dd74672e656c797369756d2e7375&@proxy_pub|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=hk1ddns.dc6.icu&port=41528&secret=feff39bcddb62859ade093fcad935858&@juzibaipiao|\ud83c\udded\ud83c\uddf0"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "new.tg-proxyes.ru",
+            "port": "443",
+            "secret": "078983aa56fd433d1366546ec9bc6517",
+            "channel": "@baicai_dev",
+            "name": "@proxy_pub|\ud83c\udde8\ud83c\uddff"
+        },
+        "link": "https:\/\/t.me\/proxy?server=new.tg-proxyes.ru&port=443&secret=078983aa56fd433d1366546ec9bc6517&@proxy_pub|\ud83c\udde8\ud83c\uddff"
     },
     {
         "scheme": "https",
