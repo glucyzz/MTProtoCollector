@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "216.227.169.252",
             "port": "443",
-            "secret": "ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d",
-            "server": "188.137.234.21",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "secret": "ee813f382f0a2868a9efb14045d03a82306d6170732e79616e6465782e7275",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=188.137.234.21&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=216.227.169.252&port=443&secret=ee813f382f0a2868a9efb14045d03a82306d6170732e79616e6465782e7275&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -193,36 +193,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "166.88.164.79",
-            "port": "65317",
-            "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
-            "name": "@juzibaipiao|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=166.88.164.79&port=65317&secret=ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d&@juzibaipiao|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "changer.dynamometry.flan.issuant.shipshape.teleseryeheaven.com",
-            "port": "6350",
-            "secret": "9036ff7b54872d3dd7a1696ee8bb836e",
+            "server": "prx51.vpncontrol.online",
+            "port": "443",
+            "secret": "dd63ddf70c2fa66dfa8a66e5c244d02c13",
             "channel": "@baicai_dev",
-            "name": "@proxy_pub|\ud83c\uddeb\ud83c\uddee"
+            "name": "@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=changer.dynamometry.flan.issuant.shipshape.teleseryeheaven.com&port=6350&secret=9036ff7b54872d3dd7a1696ee8bb836e&@proxy_pub|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=prx51.vpncontrol.online&port=443&secret=dd63ddf70c2fa66dfa8a66e5c244d02c13&@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "166.88.164.192",
-            "port": "65317",
+            "server": "23.27.134.21",
+            "port": "8443",
             "secret": "ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d",
             "name": "@v8_555|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=166.88.164.192&port=65317&secret=ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d&@v8_555|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=23.27.134.21&port=8443&secret=ee6b96a90543e55d4ea59e7e0ae9420d497777772e6d6963726f736f66742e636f6d&@v8_555|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
