@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "128.140.13.248",
+            "server": "23.88.51.230",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "fit.proxytg.space",
+            "server": "hot.proxytg.space",
             "port": "443",
-            "secret": "ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d",
+            "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
             "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=fit.proxytg.space&port=443&secret=ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=hot.proxytg.space&port=443&secret=ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -124,6 +124,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "q.hq-1337.win",
+            "port": "443",
+            "secret": "ee84ea5a1d188a32e3905389660fa0bfab706574726f766963682e7275",
+            "name": "@V2rayng_Fast|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=q.hq-1337.win&port=443&secret=ee84ea5a1d188a32e3905389660fa0bfab706574726f766963682e7275&@V2rayng_Fast|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "name": "@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=&port=&secret=&@proxy_kafee|\ud83c\uddfa\ud83c\uddf8"
@@ -181,25 +193,25 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "2407:d140:1:100:9000:9000:9cfd:d902",
-            "port": "40861",
-            "secret": "dd2fac8baca6bb1590ddf64c62ae0facc8",
-            "name": "@juzibaipiao|\ud83c\uddfa\ud83c\uddf8"
+            "server": "47.76.77.155",
+            "port": "8888",
+            "secret": "dd9035de6b150c249f1b6f7156092757b4",
+            "name": "@juzibaipiao|\ud83c\udded\ud83c\uddf0"
         },
-        "link": "https:\/\/t.me\/proxy?server=2407:d140:1:100:9000:9000:9cfd:d902&port=40861&secret=dd2fac8baca6bb1590ddf64c62ae0facc8&@juzibaipiao|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=47.76.77.155&port=8888&secret=dd9035de6b150c249f1b6f7156092757b4&@juzibaipiao|\ud83c\udded\ud83c\uddf0"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "fuckyourkn.myaeroplan.ru",
+            "server": "nono.2pac.live",
             "port": "443",
-            "secret": "eee371b39a47b51e57a85d940aca53336b73332e6d796165726f706c616e2e7275",
+            "secret": "ee24db8a52b836e06bf62a28a1bf566d8f7777772e616d642e636f6d",
             "channel": "@baicai_dev",
-            "name": "@proxy_pub|\ud83c\uddf8\ud83c\uddec"
+            "name": "@proxy_pub|\ud83c\uddf5\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=fuckyourkn.myaeroplan.ru&port=443&secret=eee371b39a47b51e57a85d940aca53336b73332e6d796165726f706c616e2e7275&@proxy_pub|\ud83c\uddf8\ud83c\uddec"
+        "link": "https:\/\/t.me\/proxy?server=nono.2pac.live&port=443&secret=ee24db8a52b836e06bf62a28a1bf566d8f7777772e616d642e636f6d&@proxy_pub|\ud83c\uddf5\ud83c\uddf1"
     },
     {
         "scheme": "https",
