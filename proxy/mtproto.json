@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "23.88.51.230",
-            "port": "443",
-            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "vavan.xyz",
             "port": "443",
             "secret": "dd104462821249bd7ac519130220c25d09",
@@ -28,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "hot.proxytg.space",
-            "port": "443",
-            "secret": "ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "server": "akenai.top",
+            "port": "853",
+            "secret": "ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=hot.proxytg.space&port=443&secret=ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -205,13 +193,13 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "nono.2pac.live",
-            "port": "443",
-            "secret": "ee24db8a52b836e06bf62a28a1bf566d8f7777772e616d642e636f6d",
+            "server": "team.myrka.digital",
+            "port": "444",
+            "secret": "ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c",
             "channel": "@baicai_dev",
-            "name": "@proxy_pub|\ud83c\uddf5\ud83c\uddf1"
+            "name": "@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=nono.2pac.live&port=443&secret=ee24db8a52b836e06bf62a28a1bf566d8f7777772e616d642e636f6d&@proxy_pub|\ud83c\uddf5\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=team.myrka.digital&port=444&secret=ee888144876666144844228333222212226d75727a696b2e6d79726b612e6469676974616c&@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -220,9 +208,9 @@
         "query": {
             "server": "166.88.164.229",
             "port": "65265",
-            "secret": "eecddbd6f079d9ad5333c85fb026c58a92646576656c6f706572732e636c6f7564666c6172652e636f6d",
+            "secret": "ee9576d3bce3e753fd10e4a11776ad63b37777772e636c6f7564666c6172652e636f6d",
             "name": "@v8_555|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=166.88.164.229&port=65265&secret=eecddbd6f079d9ad5333c85fb026c58a92646576656c6f706572732e636c6f7564666c6172652e636f6d&@v8_555|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=166.88.164.229&port=65265&secret=ee9576d3bce3e753fd10e4a11776ad63b37777772e636c6f7564666c6172652e636f6d&@v8_555|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
