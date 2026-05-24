@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "hop.proxytg.space",
+            "server": "m.proxytg.space",
             "port": "8443",
-            "secret": "eeabb8cea3a48990152aacc55985a913116262632e636f6d",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=hop.proxytg.space&port=8443&secret=eeabb8cea3a48990152aacc55985a913116262632e636f6d&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=m.proxytg.space&port=8443&secret=ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
@@ -112,12 +112,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "157.90.124.2",
-            "port": "4455",
+            "server": "95.217.235.33",
+            "port": "443",
             "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@V2rayng_Fast|\ud83c\udde9\ud83c\uddea"
+            "name": "@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd104462821249bd7ac519130220c25d09&@V2rayng_Fast|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09&@V2rayng_Fast|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -169,25 +169,25 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "zz.shanlian.app",
-            "port": "20370",
-            "secret": "ee37dad64064da8fb4f34896a69106e848617a7572652e6d6963726f736f66742e636f6d",
-            "name": "@juzibaipiao|\ud83c\uddf2\ud83c\uddfe"
+            "server": "84.75.202.28",
+            "port": "54587",
+            "secret": "eedfa6e704a63eab155527a6358269e92a7777772e62696e672e636f6d",
+            "name": "@juzibaipiao|\ud83c\udded\ud83c\uddf0"
         },
-        "link": "https:\/\/t.me\/proxy?server=zz.shanlian.app&port=20370&secret=ee37dad64064da8fb4f34896a69106e848617a7572652e6d6963726f736f66742e636f6d&@juzibaipiao|\ud83c\uddf2\ud83c\uddfe"
+        "link": "https:\/\/t.me\/proxy?server=84.75.202.28&port=54587&secret=eedfa6e704a63eab155527a6358269e92a7777772e62696e672e636f6d&@juzibaipiao|\ud83c\udded\ud83c\uddf0"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "sasiski.bibabobabobus.site",
-            "port": "443",
-            "secret": "eeef3805b0d823d6c7add43843065e5b5c636c6f7564666c6172652e636f6d",
+            "server": "www.tproxy.mom",
+            "port": "8090",
+            "secret": "ee104462821249bd7ac519130220c25d09617669746f2e7275",
             "channel": "@baicai_dev",
-            "name": "@proxy_pub|\ud83c\udde9\ud83c\uddea"
+            "name": "@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=sasiski.bibabobabobus.site&port=443&secret=eeef3805b0d823d6c7add43843065e5b5c636c6f7564666c6172652e636f6d&@proxy_pub|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275&@proxy_pub|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
